@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Homework\Seminar3\EX21\bin\Debug\net6.0\EX21.exe
+C:\Users\hp\Desktop\Homework\Seminar3\EX21\bin\Debug\net6.0\EX21.deps.json
+C:\Users\hp\Desktop\Homework\Seminar3\EX21\bin\Debug\net6.0\EX21.runtimeconfig.json
+C:\Users\hp\Desktop\Homework\Seminar3\EX21\bin\Debug\net6.0\EX21.dll
+C:\Users\hp\Desktop\Homework\Seminar3\EX21\bin\Debug\net6.0\EX21.pdb
+C:\Users\hp\Desktop\Homework\Seminar3\EX21\obj\Debug\net6.0\EX21.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Homework\Seminar3\EX21\obj\Debug\net6.0\EX21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Homework\Seminar3\EX21\obj\Debug\net6.0\EX21.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Homework\Seminar3\EX21\obj\Debug\net6.0\EX21.AssemblyInfo.cs
+C:\Users\hp\Desktop\Homework\Seminar3\EX21\obj\Debug\net6.0\EX21.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Homework\Seminar3\EX21\obj\Debug\net6.0\EX21.dll
+C:\Users\hp\Desktop\Homework\Seminar3\EX21\obj\Debug\net6.0\refint\EX21.dll
+C:\Users\hp\Desktop\Homework\Seminar3\EX21\obj\Debug\net6.0\EX21.pdb
+C:\Users\hp\Desktop\Homework\Seminar3\EX21\obj\Debug\net6.0\EX21.genruntimeconfig.cache
+C:\Users\hp\Desktop\Homework\Seminar3\EX21\obj\Debug\net6.0\ref\EX21.dll
