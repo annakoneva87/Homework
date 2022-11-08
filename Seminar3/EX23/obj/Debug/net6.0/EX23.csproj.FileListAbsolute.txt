@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Homework\Seminar3\EX23\bin\Debug\net6.0\EX23.exe
+C:\Users\hp\Desktop\Homework\Seminar3\EX23\bin\Debug\net6.0\EX23.deps.json
+C:\Users\hp\Desktop\Homework\Seminar3\EX23\bin\Debug\net6.0\EX23.runtimeconfig.json
+C:\Users\hp\Desktop\Homework\Seminar3\EX23\bin\Debug\net6.0\EX23.dll
+C:\Users\hp\Desktop\Homework\Seminar3\EX23\bin\Debug\net6.0\EX23.pdb
+C:\Users\hp\Desktop\Homework\Seminar3\EX23\obj\Debug\net6.0\EX23.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Homework\Seminar3\EX23\obj\Debug\net6.0\EX23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Homework\Seminar3\EX23\obj\Debug\net6.0\EX23.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Homework\Seminar3\EX23\obj\Debug\net6.0\EX23.AssemblyInfo.cs
+C:\Users\hp\Desktop\Homework\Seminar3\EX23\obj\Debug\net6.0\EX23.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Homework\Seminar3\EX23\obj\Debug\net6.0\EX23.dll
+C:\Users\hp\Desktop\Homework\Seminar3\EX23\obj\Debug\net6.0\refint\EX23.dll
+C:\Users\hp\Desktop\Homework\Seminar3\EX23\obj\Debug\net6.0\EX23.pdb
+C:\Users\hp\Desktop\Homework\Seminar3\EX23\obj\Debug\net6.0\EX23.genruntimeconfig.cache
+C:\Users\hp\Desktop\Homework\Seminar3\EX23\obj\Debug\net6.0\ref\EX23.dll

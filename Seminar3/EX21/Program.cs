@@ -1,30 +1,16 @@
-﻿//Напишите программу, коорая принимает на вход число (а) и выдает сумму чисел от 1 до а
+﻿//Напишите программу, которая принимает на вход координаты двух точек и находит расстояние между ними в 3D пространстве.
+System.Console.WriteLine("Введите координаты точки A");
+int x1 = int.Parse(Console.ReadLine());
+int y1 = int.Parse(Console.ReadLine());
+int z1 = int.Parse(Console.ReadLine());
+System.Console.WriteLine("Введите координаты точки B");
+int x2 = int.Parse(Console.ReadLine());
+int y2 = int.Parse(Console.ReadLine());
+int z2 = int.Parse(Console.ReadLine());
 
-int numA=SetNumber("A");
-
-int GetSumAllNumbersToNumberA(int numA);
-Print(sum);
-int SetNumber(string str)
+double distance = Math.Sqrt (Math.Pow((x2-x1),2) + Math.Pow((y2-y1),2) + Math.Pow((z2-z1),2));
 {
-    System.Console.WriteLine($"Enter number{str}");
-    int num = int.Parse(Console.ReadLine());
-    return num;
-}
-int sum = GetSumAllNumbersToNumberA(numA A);
-{
-int sum=0;
-for (int i = 1; i < numA; i++)
-{
-    sum+=i;
-}
-return sum;
-{
-    
-}
-}
+Console.WriteLine($"{distance}");}
 
 
-void Print(int num)
-{
-System.Console.WriteLine($"number={num}");
-}
+
