@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Homework\Seminar4\EX29\obj\Debug\net6.0\EX29.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Homework\Seminar4\EX29\obj\Debug\net6.0\EX29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Homework\Seminar4\EX29\obj\Debug\net6.0\EX29.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Homework\Seminar4\EX29\obj\Debug\net6.0\EX29.AssemblyInfo.cs
+C:\Users\hp\Desktop\Homework\Seminar4\EX29\obj\Debug\net6.0\EX29.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Homework\Seminar4\EX29\bin\Debug\net6.0\EX29.exe
+C:\Users\hp\Desktop\Homework\Seminar4\EX29\bin\Debug\net6.0\EX29.deps.json
+C:\Users\hp\Desktop\Homework\Seminar4\EX29\bin\Debug\net6.0\EX29.runtimeconfig.json
+C:\Users\hp\Desktop\Homework\Seminar4\EX29\bin\Debug\net6.0\EX29.dll
+C:\Users\hp\Desktop\Homework\Seminar4\EX29\bin\Debug\net6.0\EX29.pdb
+C:\Users\hp\Desktop\Homework\Seminar4\EX29\obj\Debug\net6.0\EX29.dll
+C:\Users\hp\Desktop\Homework\Seminar4\EX29\obj\Debug\net6.0\refint\EX29.dll
+C:\Users\hp\Desktop\Homework\Seminar4\EX29\obj\Debug\net6.0\EX29.pdb
+C:\Users\hp\Desktop\Homework\Seminar4\EX29\obj\Debug\net6.0\EX29.genruntimeconfig.cache
+C:\Users\hp\Desktop\Homework\Seminar4\EX29\obj\Debug\net6.0\ref\EX29.dll
