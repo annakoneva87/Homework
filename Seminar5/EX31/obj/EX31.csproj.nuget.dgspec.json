@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Desktop\\Homework\\Seminar3\\ex23\\EX23.csproj": {}
+    "C:\\Users\\hp\\Desktop\\Homework\\Seminar5\\EX31\\EX31.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Desktop\\Homework\\Seminar3\\ex23\\EX23.csproj": {
+    "C:\\Users\\hp\\Desktop\\Homework\\Seminar5\\EX31\\EX31.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\Homework\\Seminar3\\ex23\\EX23.csproj",
-        "projectName": "EX23",
-        "projectPath": "C:\\Users\\hp\\Desktop\\Homework\\Seminar3\\ex23\\EX23.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\Homework\\Seminar5\\EX31\\EX31.csproj",
+        "projectName": "EX31",
+        "projectPath": "C:\\Users\\hp\\Desktop\\Homework\\Seminar5\\EX31\\EX31.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\Homework\\Seminar3\\ex23\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\Homework\\Seminar5\\EX31\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
