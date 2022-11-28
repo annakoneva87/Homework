@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Homework\Seminar9\EX68\bin\Debug\net6.0\EX68.exe
+C:\Users\hp\Desktop\Homework\Seminar9\EX68\bin\Debug\net6.0\EX68.deps.json
+C:\Users\hp\Desktop\Homework\Seminar9\EX68\bin\Debug\net6.0\EX68.runtimeconfig.json
+C:\Users\hp\Desktop\Homework\Seminar9\EX68\bin\Debug\net6.0\EX68.dll
+C:\Users\hp\Desktop\Homework\Seminar9\EX68\bin\Debug\net6.0\EX68.pdb
+C:\Users\hp\Desktop\Homework\Seminar9\EX68\obj\Debug\net6.0\EX68.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Homework\Seminar9\EX68\obj\Debug\net6.0\EX68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Homework\Seminar9\EX68\obj\Debug\net6.0\EX68.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Homework\Seminar9\EX68\obj\Debug\net6.0\EX68.AssemblyInfo.cs
+C:\Users\hp\Desktop\Homework\Seminar9\EX68\obj\Debug\net6.0\EX68.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Homework\Seminar9\EX68\obj\Debug\net6.0\EX68.dll
+C:\Users\hp\Desktop\Homework\Seminar9\EX68\obj\Debug\net6.0\refint\EX68.dll
+C:\Users\hp\Desktop\Homework\Seminar9\EX68\obj\Debug\net6.0\EX68.pdb
+C:\Users\hp\Desktop\Homework\Seminar9\EX68\obj\Debug\net6.0\EX68.genruntimeconfig.cache
+C:\Users\hp\Desktop\Homework\Seminar9\EX68\obj\Debug\net6.0\ref\EX68.dll

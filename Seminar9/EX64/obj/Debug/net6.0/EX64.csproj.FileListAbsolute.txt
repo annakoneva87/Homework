@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Homework\Seminar9\EX64\bin\Debug\net6.0\EX64.exe
+C:\Users\hp\Desktop\Homework\Seminar9\EX64\bin\Debug\net6.0\EX64.deps.json
+C:\Users\hp\Desktop\Homework\Seminar9\EX64\bin\Debug\net6.0\EX64.runtimeconfig.json
+C:\Users\hp\Desktop\Homework\Seminar9\EX64\bin\Debug\net6.0\EX64.dll
+C:\Users\hp\Desktop\Homework\Seminar9\EX64\bin\Debug\net6.0\EX64.pdb
+C:\Users\hp\Desktop\Homework\Seminar9\EX64\obj\Debug\net6.0\EX64.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Homework\Seminar9\EX64\obj\Debug\net6.0\EX64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Homework\Seminar9\EX64\obj\Debug\net6.0\EX64.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Homework\Seminar9\EX64\obj\Debug\net6.0\EX64.AssemblyInfo.cs
+C:\Users\hp\Desktop\Homework\Seminar9\EX64\obj\Debug\net6.0\EX64.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Homework\Seminar9\EX64\obj\Debug\net6.0\EX64.dll
+C:\Users\hp\Desktop\Homework\Seminar9\EX64\obj\Debug\net6.0\refint\EX64.dll
+C:\Users\hp\Desktop\Homework\Seminar9\EX64\obj\Debug\net6.0\EX64.pdb
+C:\Users\hp\Desktop\Homework\Seminar9\EX64\obj\Debug\net6.0\EX64.genruntimeconfig.cache
+C:\Users\hp\Desktop\Homework\Seminar9\EX64\obj\Debug\net6.0\ref\EX64.dll
