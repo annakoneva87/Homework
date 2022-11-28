@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Homework\FinalWork\bin\Debug\net6.0\FinalWork.exe
+C:\Users\hp\Desktop\Homework\FinalWork\bin\Debug\net6.0\FinalWork.deps.json
+C:\Users\hp\Desktop\Homework\FinalWork\bin\Debug\net6.0\FinalWork.runtimeconfig.json
+C:\Users\hp\Desktop\Homework\FinalWork\bin\Debug\net6.0\FinalWork.dll
+C:\Users\hp\Desktop\Homework\FinalWork\bin\Debug\net6.0\FinalWork.pdb
+C:\Users\hp\Desktop\Homework\FinalWork\obj\Debug\net6.0\FinalWork.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Homework\FinalWork\obj\Debug\net6.0\FinalWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Homework\FinalWork\obj\Debug\net6.0\FinalWork.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Homework\FinalWork\obj\Debug\net6.0\FinalWork.AssemblyInfo.cs
+C:\Users\hp\Desktop\Homework\FinalWork\obj\Debug\net6.0\FinalWork.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Homework\FinalWork\obj\Debug\net6.0\FinalWork.dll
+C:\Users\hp\Desktop\Homework\FinalWork\obj\Debug\net6.0\refint\FinalWork.dll
+C:\Users\hp\Desktop\Homework\FinalWork\obj\Debug\net6.0\FinalWork.pdb
+C:\Users\hp\Desktop\Homework\FinalWork\obj\Debug\net6.0\FinalWork.genruntimeconfig.cache
+C:\Users\hp\Desktop\Homework\FinalWork\obj\Debug\net6.0\ref\FinalWork.dll
