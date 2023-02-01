@@ -12,3 +12,5 @@ else
 {
    Console.WriteLine($"{result}");   
 }
+
+// Выполнено
